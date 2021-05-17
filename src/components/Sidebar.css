@@ -1,0 +1,10 @@
+.sidebar-ctn {
+  background-color: #0086cf;
+  border: 1px solid #0086cf;
+  box-shadow: 0px -12px 58px rgba(0, 0, 0, 0.1),
+    0px -1.21644px 31.6042px rgba(0, 0, 0, 0.0565328),
+    0px 1.81514px 25.6505px rgba(0, 0, 0, 0.0400212),
+    0px 2.57825px 19.2801px rgba(0, 0, 0, 0.0324889),
+    0px 1.87048px 10.7559px rgba(0, 0, 0, 0.0225201);
+  border-radius: 20px;
+}

@@ -1,0 +1,35 @@
+p {
+  color: #9d9d9d;
+}
+
+.login-ctn {
+  background-color: white;
+  border: 1px solid whitesmoke;
+  margin-top: 50px;
+  box-sizing: border-box;
+  box-shadow: 0px 43px 350px rgba(0, 0, 0, 0.06),
+    0px 12.9632px 105.515px rgba(0, 0, 0, 0.0452747),
+    0px 5.38427px 43.8254px rgba(0, 0, 0, 0.0419759),
+    0px 1.94738px 15.8508px rgba(0, 0, 0, 0.0376014);
+  border-radius: 20px;
+}
+
+.login-form {
+  text-align: left;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+h4 {
+  font-weight: 700;
+  padding-top: 20px;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.signup-link {
+  text-align: left;
+}
