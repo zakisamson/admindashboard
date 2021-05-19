@@ -14,9 +14,6 @@ export default function CustomButton({icon, val, link }){
                 <div style={{flex:'0.1'}}>
                     <img src={Next} style={{float:'right'}}></img>
                 </div>
-                
-                
-                
             </button>
         </div>
     );

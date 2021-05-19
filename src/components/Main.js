@@ -1,12 +1,12 @@
 import React from 'react';
 import Sidebar from './organisms/Sidebar';
 import { Container, Row, Col, Button} from "react-bootstrap"
-// import CustomButton from './molecules/CustomButton';
-// import dash_icn from '../assets/dashboard_icon.svg'
+import List from './organisms/List';
+import AddProduct from './organisms/AddProduct';
 
 export default function Main(){
     return(
-        <div className="Main" style={{marginTop:'50px'}}>
+        <div className="Main" style={{marginTop:'40px'}}>
             <Container fluid>
                 <Container>
                     <Row>
@@ -14,7 +14,7 @@ export default function Main(){
                             <Sidebar />
                         </Col>
                         <Col lg={8}>
-                            main tab
+                            <AddProduct />
                         </Col>
                     </Row>
                 </Container>
